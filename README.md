@@ -1,3 +1,6 @@
-# API
+# Example API Creation
 
-API REST using Node Express and MongoDB
+API REST using 
+Node JS
+Express js
+MongoDB
